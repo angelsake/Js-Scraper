@@ -1,0 +1,5 @@
+playwright
+pandas>=2.0
+openpyxl
+requests
+beautifulsoup4
